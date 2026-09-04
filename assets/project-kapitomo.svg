@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="190" viewBox="0 0 1160 190" role="img" aria-labelledby="title desc">
+  <title id="title">KapiTomo</title>
+  <desc id="desc">Site, catálogo e infraestrutura aberta para obras, leitores e plugins.</desc>
+  <rect x="1" y="1" width="1158" height="188" rx="18" fill="#14110F" stroke="#453A33" stroke-width="2"/>
+  <rect x="1" y="1" width="12" height="188" rx="6" fill="#C31922"/>
+  <circle cx="1050" cy="95" r="63" fill="none" stroke="#710C12" stroke-width="18" opacity=".8"/>
+  <path d="M1009 48a63 63 0 0 1 85 16M1105 83a63 63 0 0 1-21 57M1064 155a63 63 0 0 1-65-45" fill="none" stroke="#D94A4F" stroke-width="7" stroke-linecap="round"/>
+  <text x="54" y="72" fill="#D94A4F" font-family="Consolas, 'Courier New', monospace" font-size="20" letter-spacing="3">PROJETO PÚBLICO</text>
+  <text x="52" y="119" fill="#F2EEE9" font-family="Consolas, 'Courier New', monospace" font-size="39" font-weight="700">KapiTomo</text>
+  <text x="270" y="116" fill="#A79D94" font-family="Consolas, 'Courier New', monospace" font-size="20">obras • catálogo • Plugin Hub • documentação</text>
+  <text x="54" y="157" fill="#68615C" font-family="Consolas, 'Courier New', monospace" font-size="15">PUBLIC WEB PLATFORM  /  HTML + JAVASCRIPT</text>
+</svg>

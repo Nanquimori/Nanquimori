@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="82" viewBox="0 0 1160 82" role="img" aria-labelledby="title">
+  <title id="title">Marca final Nanquimori</title>
+  <rect width="1160" height="82" rx="16" fill="#080706"/>
+  <path d="M34 41h435" stroke="#453A33" stroke-width="2"/>
+  <path d="M691 41h435" stroke="#453A33" stroke-width="2"/>
+  <path d="M469 41h75l16-25 21 50 18-38 17 13h75" fill="none" stroke="#D94A4F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="580" cy="41" r="32" fill="none" stroke="#710C12" stroke-width="4" opacity=".75"/>
+</svg>
