@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nanquimori.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-C31922?style=for-the-badge&labelColor=14110F" alt="Nanquimori portfolio" /></a>
   <a href="https://nanquimori.github.io/KapiTomo/"><img src="https://img.shields.io/badge/KapiTomo-website-A40D15?style=for-the-badge&labelColor=14110F" alt="KapiTomo website" /></a>
   <a href="https://github.com/Nanquimori/KapiTomo"><img src="https://img.shields.io/badge/public-repository-DED7CF?style=for-the-badge&logo=github&logoColor=DED7CF&labelColor=14110F" alt="Public repository" /></a>
 </p>
@@ -21,6 +22,12 @@
 Nanquimori é meu espaço de criação independente. Desenvolvo software com foco em sistemas conectados, leitura offline, ferramentas para conteúdo e experiências interativas construídas com cuidado técnico e visual.
 
 > **Forma antes do ruído. Sistemas antes do verniz.**
+
+### Painel
+
+<p align="center">
+  <a href="https://nanquimori.github.io/"><img src="./assets/dashboard.svg" width="100%" alt="Painel de atividade Nanquimori" /></a>
+</p>
 
 ### Trabalho em destaque
 
